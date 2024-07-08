@@ -1,1 +1,1 @@
-Movie Reviews Sentiment Analysis Machine Learning Project
+Sentiment analysis on Movie reviews pre processed  data, and created a ML model through Logistic Regression Model, trained Machine learning model, tested machine learning model, draw word cloud in Python, Confusion matrix to evaluate model results, and finally deploying Sentiment analysis machine learning model as a web application in Python
